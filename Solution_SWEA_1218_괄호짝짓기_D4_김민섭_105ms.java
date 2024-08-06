@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-// Solution_SWEA_1218_괄호짝짓기_D4_김민섭_105ms
+// Solution_SWEA_1218_괄호짝짓기_D4_105ms_김민섭
 
 public class Solution_SWEA_1218_괄호짝짓기_D4_김민섭_105ms {
 	public static void main(String[] args) throws IOException {
