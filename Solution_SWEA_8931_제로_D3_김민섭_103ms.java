@@ -2,9 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-// Solution_SWEA_8931_제로_D3_103ms_김민섭
+// Solution_SWEA_8931_제로_D3_김민섭_103ms
 
-public class Solution_SWEA_8931_제로_D3_103ms_김민섭 {
+public class Solution_SWEA_8931_제로_D3_김민섭_103ms {
 	public static void main(String[] args) throws IOException {
 		
 		StringBuilder sb = new StringBuilder();
