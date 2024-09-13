@@ -108,7 +108,7 @@ class SWEA_삼국지게임_Pro_김민섭_1617ms_767ms_Solution {
                 System.out.println("#" + tc + " 0");
         }
         sc.close();
-        long timeE = System.currentTimeMillis();
+//        long timeE = System.currentTimeMillis();
 //        System.out.println(timeE - timeS);
     }
 }
